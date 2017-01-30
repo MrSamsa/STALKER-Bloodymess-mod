@@ -45,10 +45,10 @@ B. Install this way if you are using some other mod and dont want to overwrite t
 
 [bloody_marks]
 wallmarks			= wm\wm_blood_1,wm\wm_blood_2,wm\wm_blood_3
-dist				= 7.0  ;2.0 ;2.4	;(м) max расстояние отлета крови
-max_size			= 0.42 ;0.4 ;0.3	;(м)радиус пятна при хите силой nominal hit по большому объекту (по маленькому *0.5)
-min_size			= 0.18 ;0.15 ;0.06			;(м)минимальный радиус пятна
-nominal_hit			= 0.35 ;0.38 ;0.4 ;0.5			;величина номинального хита, при котором разлетается максимум крови (max_size)
+dist				= 7.0  ;2.0 ;2.4	;(Г¬) max Г°Г Г±Г±ГІГ®ГїГ­ГЁГҐ Г®ГІГ«ГҐГІГ  ГЄГ°Г®ГўГЁ
+max_size			= 0.42 ;0.4 ;0.3	;(Г¬)Г°Г Г¤ГЁГіГ± ГЇГїГІГ­Г  ГЇГ°ГЁ ГµГЁГІГҐ Г±ГЁГ«Г®Г© nominal hit ГЇГ® ГЎГ®Г«ГјГёГ®Г¬Гі Г®ГЎГєГҐГЄГІГі (ГЇГ® Г¬Г Г«ГҐГ­ГјГЄГ®Г¬Гі *0.5)
+min_size			= 0.18 ;0.15 ;0.06			;(Г¬)Г¬ГЁГ­ГЁГ¬Г Г«ГјГ­Г»Г© Г°Г Г¤ГЁГіГ± ГЇГїГІГ­Г 
+nominal_hit			= 0.35 ;0.38 ;0.4 ;0.5			;ГўГҐГ«ГЁГ·ГЁГ­Г  Г­Г®Г¬ГЁГ­Г Г«ГјГ­Г®ГЈГ® ГµГЁГІГ , ГЇГ°ГЁ ГЄГ®ГІГ®Г°Г®Г¬ Г°Г Г§Г«ГҐГІГ ГҐГІГ±Гї Г¬Г ГЄГ±ГЁГ¬ГіГ¬ ГЄГ°Г®ГўГЁ (max_size)
 
 (remember if you are using extra blood textures you need to add them in under the wallmarks value)
 
